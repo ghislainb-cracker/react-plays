@@ -1,0 +1,16 @@
+.first{
+    border: 2px solid black;
+    margin-bottom: 16px;
+}
+img{
+    width: 26%;
+    height: 520px;
+    border-radius: 10px;
+}
+.container{
+    display: inline;
+    margin-bottom: 20px;
+}
+.details--container{
+    margin: -280px 0 0 360px;
+}
